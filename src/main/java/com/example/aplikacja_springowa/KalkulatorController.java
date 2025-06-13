@@ -59,6 +59,7 @@ public class KalkulatorController {
             <option value='-'>-</option>
             <option value='*'>*</option>
             <option value='/'>/</option>
+            <option value='/'>%</option>
             </select>
             <input type='number' name='liczba2'>
             <button>Oblicz</button>
