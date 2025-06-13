@@ -26,7 +26,7 @@ public class KalkulatorController {
             <style>
             form {
                 width: 600px;
-                background-color: #AAEEFF;
+                background-color: #BBEEFF;
                 margin: 2em auto;
                 padding: 0.75em;
                 border: 4px solid blue;
